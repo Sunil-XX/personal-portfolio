@@ -5,7 +5,7 @@ I’m Pudari Sunil, a passionate **Software Engineer** skilled in **HTML, CSS, a
 
 ---
 
-#🚀 Features
+🚀 Features
 
 * 🎨 Modern & responsive UI
 * ⚡ Smooth animations and transitions
@@ -15,7 +15,7 @@ I’m Pudari Sunil, a passionate **Software Engineer** skilled in **HTML, CSS, a
 
 ---
 
-# 🛠️ Tech Stack
+🛠️ Tech Stack
 
 **Frontend:**
 
@@ -30,7 +30,7 @@ I’m Pudari Sunil, a passionate **Software Engineer** skilled in **HTML, CSS, a
 
 ---
 
-#📸 Sections Included
+📸 Sections Included
 
 * Hero / Introduction
 * About Me
@@ -41,7 +41,7 @@ I’m Pudari Sunil, a passionate **Software Engineer** skilled in **HTML, CSS, a
 
 ---
 
-# 📥 Installation / Setup
+📥 Installation / Setup
 
 ```bash
 git clone https://github.com/Sunil-XX/personal-portfolio.git
@@ -52,7 +52,7 @@ Open `index.html` in your browser.
 
 ---
 
-#✨ Customization
+✨ Customization
 
 * Edit text → `index.html`
 * Styling/colors → `style.css`
@@ -60,7 +60,7 @@ Open `index.html` in your browser.
 
 ---
 
-#📬 Contact
+📬 Contact
 
 * **Name:** Pudari Sunil
 * **Email:** [Sunilpudari6@gmail.com](mailto:Sunilpudari6@gmail.com)
